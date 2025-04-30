@@ -74,6 +74,9 @@ A cost-effective motor control system that allows **bidirectional control and ad
 - Philopateer Charl  
 - Nour Eldeen Nashat  
 
+## 📄 Project Report
+You can view the full technical report [here](./project%20report%20(Car).pdf).
+
 > Supervised by: Dr. Nabil Abd-Rabou  
 > [El-Shorouk Academy – Engineering Faculty]
 
